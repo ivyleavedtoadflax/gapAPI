@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+run.R
+tests/testthat/test_get_GPS.R
+tests/testthat/test_get_devices.R
+README.Rmd
+README.html

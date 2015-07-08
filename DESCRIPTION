@@ -1,0 +1,23 @@
+Package: gapAPI
+Type: Package
+Title: GAP API interface
+Version: 0.1
+Date: 2015-06-24
+Author: Matthew Upson
+Maintainer: <ivyleavedtoadflax@gmail.com>
+Description: Package of wrapper functions (based mainly on httr) which facilitate access to the GAP REST API (https://developer.globalalerting.com/API) for downloading GPS data from tracking units. It is primary intended for the downloading of Cattle GPS data.
+License: GPL-3
+LazyData: TRUE
+Depends:
+    R (>= 3.2.0)
+Imports:
+    dplyr,
+    httr (>= 0.6.1),
+    jsonlite,
+    lubridate,
+    readr,
+    RCurl (>= 1.95-4.6),
+    XML (>= 3.98-1.1),
+    magrittr
+
+
