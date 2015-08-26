@@ -31,7 +31,7 @@ Initial release of the package includes the following functions:
 
 
 ```r
-devtools::install_github("ivyleavedtoadflax/gapAPI/")
+devtools::install_github("ivyleavedtoadflax/gapAPI")
 library(gapAPI)
 
 my_tenant = 1234
