@@ -1,5 +1,6 @@
 # gapAPI
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19743.svg)](http://dx.doi.org/10.5281/zenodo.19743)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19743.svg)](http://dx.doi.org/10.5281/zenodo.19743)[![Build 
+Status](https://travis-ci.org/ivyleavedtoadflax/gapAPI.svg)](https://travis-ci.org/ivyleavedtoadflax/gapAPI)
 
 This repository is home to a small [R](http://cran.r-project.org/) 
 package for accessing the [GAP REST 

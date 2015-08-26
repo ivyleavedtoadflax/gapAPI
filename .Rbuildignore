@@ -5,3 +5,5 @@ tests/testthat/test_get_GPS.R
 tests/testthat/test_get_devices.R
 README.Rmd
 README.html
+.travis.yml
+console_run.R

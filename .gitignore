@@ -7,3 +7,4 @@ tests/testthat/test_get_GPS.R
 tests/testthat/test_get_devices.R
 README.Rmd
 README.html
+console_run.R
